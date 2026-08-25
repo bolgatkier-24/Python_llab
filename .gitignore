@@ -1,0 +1,8 @@
+# Python cache folder
+__pycache__/
+
+# Compiled Python files
+*.pyc
+
+# Environment variables / secrets
+.env
